@@ -4,8 +4,7 @@ import Pessoa from './components/Pessoa';
 
 function App() {
 
-  const msg = "Testando props"
-  const msg2 = "Testando mensagem 2"
+  const msg = "CSS modules"
 
   const dados = {
     foto: 'http://www.fundosanimais.com/Imagens/imagens-lobos.jpg',
@@ -17,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <SayMyName mensagem={msg} />
-      <SayMyName mensagem={msg2} />
+      <Pessoa dados={dados} />
       <Pessoa dados={dados} />
       {/* <Pesooa nome="Nome de teste" /> */}
     </div>

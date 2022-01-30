@@ -1,0 +1,27 @@
+
+.container{
+    color: #069;
+    margin-top: 10px;
+    border: 3px solid #ccc;
+    width: fit-content;
+    margin: 0 auto;
+    margin: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.container_img{
+    width: 300px;
+    height: auto;
+    border: 2px solid #456;
+}
+
+.container_Outros{
+    background-color: #333;
+    color: white;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 5px 20px;
+    text-align: left;
+}

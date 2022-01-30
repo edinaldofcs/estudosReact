@@ -1,7 +1,7 @@
 export default function SayMyName(props){
     return(
         <>
-            <h1>Mensagem passada por props: {props.mensagem}</h1>
+            <h1>Estilizando com: {props.mensagem}</h1>
         </>
 
     )
