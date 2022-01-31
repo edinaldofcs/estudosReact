@@ -2,10 +2,9 @@
 
 Estudando react e versionamento
 
-## `UseState`
+## `Métodos e eventos por props`
+### Como passar eventos por props, reaproveitando o componente e passando multiplas funções
 
-### O useState é um hook do react, que permite manipular o estado de um componente de forma simplificada
-### funciona muito bem com eventos, podendo atrelar um evento, ou uma rederização, de acordo com a mudança do state
 
 
 
