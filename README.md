@@ -2,12 +2,10 @@
 
 Estudando react e versionamento
 
-## `Props - recursos`
+## `Eventos - recursos`
 ## `React Fragments`
 
-### React Fragments
-### Definir tipos para props
-### Definir valor padrão com defaultProps
+### Eventos
 
 
 
