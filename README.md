@@ -2,9 +2,13 @@
 
 Estudando react e versionamento
 
-## `Props`
+## `Props - recursos`
+## `React Fragments`
 
-### Estilizando com CSS Modules
+### React Fragments
+### Definir tipos para props
+### Definir valor padrão com defaultProps
+
 
 
 
