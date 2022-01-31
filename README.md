@@ -2,10 +2,7 @@
 
 Estudando react e versionamento
 
-## `Métodos e eventos por props`
-### Como passar eventos por props, reaproveitando o componente e passando multiplas funções
+## `Renderização condicional`
+###  Ao envolver as tag em `{}` é posível escrever códigos `Javascrip` e também, usar o `useState` para criar as condições 
 
-
-
-
-
+### O `{condicional ? (condicao1) : (condicao2)}` serve para quando quiser exibir uma ou outra condição, enquanto o `{condicional && (condicao1)}`, serve para validar apenas uma condição
