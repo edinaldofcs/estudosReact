@@ -1,7 +1,25 @@
+.nav_bar{
+    background-color: #444; 
+}
 ul{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
 }
 li{
-    margin: 10px 20px;
-    font-size: 26px;    
+    font-size: 26px;        
+    padding: 10px 0; 
+    margin: 0;
+    text-align: left;
+    justify-content: left;
+}
+
+.text{    
+    color: white;           
+    padding: 10px 5px; 
+}
+
+.text:hover{
+    background-color: #666;
 }

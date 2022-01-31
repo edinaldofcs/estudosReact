@@ -2,12 +2,11 @@
 
 Estudando react e versionamento
 
-## `React Router`
-###  O `React Router` é um pacote de mudanças de `URLs` da aplicação;
-### Permite acessar outras views, sem a necessidade do reload;
-### Permite trocar apenas parte da aplicação, reaproveitando o que já está renderizado;
+## `React Icons`
+###  Como importar icones para o projeto
 
-### Necessidade de instalar o pacote no projeto;
+https://react-icons.github.io/react-icons/search?q=kun
 
+`npm install react-icons`
 
 

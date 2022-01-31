@@ -4,20 +4,19 @@ import Styles from './NavBar.module.css'
 function NavBar() {
 
     return (
-        <nav className={Styles.NavBar}>
+        <div className={Styles.nav_bar}>
             <ul>
                 <li>
-                    <Link to='/'>Home</Link>
+                    <Link to='/' className={Styles.text}>Home</Link>
                 </li>
                 <li>
-                    <Link to='/sobre'>Sobre</Link>
+                    <Link to='/sobre' className={Styles.text}>Sobre</Link>
                 </li>
                 <li>
-                    <Link to='/contato'>Contato</Link>
+                    <Link to='/contato' className={Styles.text}>Contato</Link>
                 </li>
             </ul>
-            <hr></hr>
-        </nav>
+        </div>
     )
 }
 

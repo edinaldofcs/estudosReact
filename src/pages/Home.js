@@ -4,6 +4,7 @@ function Home() {
 
     return (
         <div>
+            <hr></hr>
             <h1>Home</h1>
             <p>Conteúdo Home</p>
             <h2>What is Lorem Ipsum?</h2>

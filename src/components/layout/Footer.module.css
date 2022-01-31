@@ -8,3 +8,18 @@
     background-color: #444;
     font-size: 20px;
 }
+
+.icone{
+    background-color: rgba(0,0,0,0);
+    color: #069;
+    font-size: 2em;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.icone:hover{
+    transform: scale(1.2);
+}
+p{
+    background-color: rgba(0,0,0,0);
+}
