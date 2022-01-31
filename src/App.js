@@ -1,11 +1,16 @@
 import './App.css';
-import Eventos from './components/Eventos';
+import Nome from './components/Nome';
+import { useState } from 'react'
+import Saudacao from './components/Saudacao';
 
 function App() {
+  const [nome, setNome] = useState();
 
   return (
     <div className="App">
-      <Eventos />
+      <h1>Saudação</h1>
+      <Nome setNome={setNome} />
+      <Saudacao nome={nome} />
     </div>
   );
 }

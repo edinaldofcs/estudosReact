@@ -2,6 +2,6 @@
 
 Estudando react e versionamento
 
-## `Renderização condicional Utilizando listas`
-###  Para renderizar listas é comum utilizar o `map` e o `Filter`
+## `Compartilhar states entre componentes`
+###  O nome da tecnica utilizada, chama-se `State Lift`
 
